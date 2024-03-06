@@ -11,11 +11,24 @@ I'm a data analyst with a passion for extracting insights from data and driving 
 ## Skills
 Here are some of the skills I excel in:
 
-![SQL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.stackademic.com%2Fsql-injection-prevention-a-comprehensive-guide-with-code-examples-7ccbf625111d&psig=AOvVaw2xpLDqimhkvVwxc2BHVf30&ust=1709824375337000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC-1KX234QDFQAAAAAdAAAAABAE)
-![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata-frame-in-python&psig=AOvVaw1JBZFGc2rUgN7GnHNGowoC&ust=1709824407325000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjV8LT234QDFQAAAAAdAAAAABAQ)
-![PowerBI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F172051648241738834%2F&psig=AOvVaw2koNM5jUIW1hzSQV2xrBxv&ust=1709824472212000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD36NP234QDFQAAAAAdAAAAABAJ)
-![Tableau](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vizchic.com%2Ftableau-isnt-the-norm-webinar%2F&psig=AOvVaw1SKV21DMKqfMBtfMf07qRf&ust=1709824506438000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDciuT234QDFQAAAAAdAAAAABAI)
-![Excel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fredirect-notice--623748617152005022%2F&psig=AOvVaw0pukYy9r_Ny66C0qrSO2nd&ust=1709824531977000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMj7vPD234QDFQAAAAAdAAAAABAE)
+<div style="display: flex; justify-content: space-evenly;">
+    <img src="https://cdn-images-1.medium.com/max/918/1*8FcJd3rVzV0IMZB27Fa1CQ.gif" width="150" />
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/200.gif?cid=6c09b952t31d39805jmsoa79s5krp1gyquzs62ogn6o3dnff&ep=v1_gifs_search&rid=200.gif&ct=g" width="100" height="75"/>
+    <img src="https://i.pinimg.com/originals/31/6c/eb/316ceb2b81248f951926e806ecb6e8a9.gif" width="100" />
+    <img src="https://www.vizchic.com/wp-content/uploads/2016/07/tableau-isnt-the-norm.gif" width="100" />
+    <img src="https://i.pinimg.com/originals/f9/85/78/f98578a4f210b726dfea429f68c0c05b.gif" width="100" />
+</div>
+
+Data Analytics Skill set: 
+
+<div style="display: flex; justify-content: space-evenly;">
+    <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*mf619XEdHd1O2MlyhEKcig.gif" width="150" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*OsGx1gZUo6BHgFme.gif" width="150" />
+    <img src="https://i.pinimg.com/originals/82/9e/c6/829ec6eb465ac4eee37d8f999658c5c8.gif" width="150" />
+    <img src="https://i.gifer.com/74pZ.gif" width="150" />
+    <img src="https://github.com/vinayvajrala/profile/assets/150467785/5d090e5e-7f82-4bcc-ac9c-70f7f435774f" width="150" />
+</div>
+
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -26,7 +39,7 @@ Here are some of the projects I've worked on:
   •	Developed interactive dashboards, designed presentations for various stakeholders driving suggesting methods to increase the profit ratio by 60%.
 - **Tools Used**: Tableau
 - **Link**: https://public.tableau.com/app/profile/vinay.vajrala/vizzes
-- ![Tableau Dashboard](https://github.com/vinayvajrala/profile/assets/150467785/8515b0d5-80f5-4276-acd1-6a60813d1d2f)
+![Tableau Dashboard](https://github.com/vinayvajrala/profile/assets/150467785/8515b0d5-80f5-4276-acd1-6a60813d1d2f)
 
 ### Automobile Sales Dashboard
 - **Description**:
