@@ -24,8 +24,8 @@ Data Analytics Skill set:
 <div style="display: flex; justify-content: space-evenly;">
     <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*mf619XEdHd1O2MlyhEKcig.gif" width="150" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*OsGx1gZUo6BHgFme.gif" width="150" />
-    <img src="https://i.pinimg.com/originals/82/9e/c6/829ec6eb465ac4eee37d8f999658c5c8.gif" width="150" />
-    <img src="https://i.gifer.com/74pZ.gif" width="150" />
+    <img src="https://i.pinimg.com/originals/82/9e/c6/829ec6eb465ac4eee37d8f999658c5c8.gif](https://cdn.dribbble.com/users/720738/screenshots/3257484/cool_data_3.gif" width="150" />
+    <img src="https://i.gifer.com/74pZ.gif](https://i.gifer.com/74pZ.gif" width="150" />
     <img src="https://github.com/vinayvajrala/profile/assets/150467785/5d090e5e-7f82-4bcc-ac9c-70f7f435774f" width="150" />
 </div>
 
